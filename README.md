@@ -1,1 +1,2 @@
-# metasploit
+chmod +x metasploit.sh
+./metasploit.sh
