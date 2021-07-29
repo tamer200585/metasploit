@@ -1,3 +1,7 @@
+apt update
+
+apt upgrade
+
 pkg install ruby -y
 
 pkg install root-repo -y
